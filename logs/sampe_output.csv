@@ -1,0 +1,9 @@
+id,timestamp,invoice_no,client_name,amount,days_overdue,stage,subject,send_status,contact_email_masked
+8,2026-05-10 20:53:55,INV-2025-008,Meena Pillai,54000.0,3,1,Friendly Reminder: Payment for INV-2025-008,DRY_RUN,m***@pillaiconsulting.in
+7,2026-05-10 20:53:50,INV-2025-007,Rohit Gupta,19500.0,5,1,Friendly Reminder: Payment for INV-2025-007,DRY_RUN,r***@guptaind.com
+6,2026-05-10 20:53:44,INV-2025-006,Deepa Verma,28000.0,9,2,Overdue Payment Reminder: INV-2025-006,DRY_RUN,d***@vermagroup.in
+5,2026-05-10 20:53:38,INV-2025-005,Vikram Joshi,62000.0,12,2,Overdue Payment: INV-2025-005 - Immediate Attention Required,DRY_RUN,v***@joshienterprises.com
+4,2026-05-10 20:53:32,INV-2025-004,Priya Nair,37000.0,15,3,Overdue Payment: INV-2025-004 - Immediate Attention Required,DRY_RUN,p***@nairlogistics.com
+3,2026-05-10 20:53:27,INV-2025-003,Anil Sharma,15000.0,20,3,Overdue Payment: INV-2025-003 - Immediate Attention Required,DRY_RUN,a***@sharmacorp.in
+2,2026-05-10 20:53:20,INV-2025-002,Sunita Mehra,82500.0,30,4,FINAL REMINDER: Overdue Payment for INV-2025-002,DRY_RUN,s***@mehratech.com
+1,2026-05-10 20:53:19,INV-2025-001,Rajesh Kapoor,45000.0,37,legal,N/A,FLAGGED_FOR_LEGAL,r***@kapoor.in
