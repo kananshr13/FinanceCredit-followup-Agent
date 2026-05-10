@@ -1,0 +1,9 @@
+invoice_no,client_name,amount,due_date,contact_email,followup_count
+INV-2025-001,Rajesh Kapoor,45000,2026-04-03,rajesh@kapoor.in,3
+INV-2025-002,Sunita Mehra,82500,2026-04-10,sunita@mehratech.com,2
+INV-2025-003,Anil Sharma,15000,2026-04-20,anil@sharmacorp.in,2
+INV-2025-004,Priya Nair,37000,2026-04-25,priya@nairlogistics.com,1
+INV-2025-005,Vikram Joshi,62000,2026-04-28,vikram@joshienterprises.com,1
+INV-2025-006,Deepa Verma,28000,2026-05-01,deepa@vermagroup.in,1
+INV-2025-007,Rohit Gupta,19500,2026-05-05,rohit@guptaind.com,0
+INV-2025-008,Meena Pillai,54000,2026-05-07,meena@pillaiconsulting.in,0
