@@ -2,8 +2,6 @@
 
 An AI-powered agent that automates payment follow-up emails for overdue invoices. The agent reads pending credit records, determines the appropriate escalation stage based on how overdue each invoice is, generates a personalised email using a large language model, and logs every action to an audit trail. No real emails are sent during testing — the agent runs in dry-run mode.
 
-This project was built as part of the AI Enablement Internship assignment.
-
 ---
 
 ## What the Agent Does
